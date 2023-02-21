@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcheesi=self.webpackChunkcheesi||[]).push([[714],{90735:function(l,t,e){e.r(t);var u=e(95837),n=e(67294),s=e(85893);t.default=function(){return(0,s.jsx)(u.Qf,{defaultValue:"\u9ED8\u8BA4\u503C",options:[{title:"\u9009\u9879\u4E00",value:1},{title:"\u9009\u98792",value:2}]})}}}]);
